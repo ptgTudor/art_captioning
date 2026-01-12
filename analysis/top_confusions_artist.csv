@@ -1,0 +1,31 @@
+count,true_id,pred_id,true_name,pred_name,mean_confidence
+12,27,4,Paul Gauguin,Camille Pissarro,0.226345
+9,160,45,Jacob Jordaens,Peter Paul Rubens,0.226770
+7,42,20,William Merritt Chase,John Singer Sargent,0.148666
+7,311,155,Theodoros Stamos,Mark Rothko,0.183927
+7,65,29,Gustave Courbet,Camille Corot,0.206409
+7,288,138,Filippo Lippi,Fra Angelico,0.221032
+6,116,99,Thomas Lawrence,George Romney,0.233605
+6,470,116,Henry Raeburn,Thomas Lawrence,0.268278
+6,291,70,Hiroshige,Katsushika Hokusai,0.269326
+6,557,207,Olivier Debre,Helen Frankenthaler,0.137332
+6,197,125,Luca Giordano,Bartolome Esteban Murillo,0.189401
+6,143,106,Thomas Gainsborough,Joshua Reynolds,0.168116
+6,1125,290,Toyohara Chikanobu,Keisai Eisen,0.181355
+6,156,30,Maxime Maufra,Alfred Sisley,0.331626
+6,79,3,Berthe Morisot,Pierre-Auguste Renoir,0.206790
+5,9,133,Rembrandt,Frans Hals,0.163063
+5,125,9,Bartolome Esteban Murillo,Rembrandt,0.156406
+5,128,69,Raphael,Titian,0.200572
+5,15,47,Salvador Dali,Rene Magritte,0.268383
+5,346,50,Utagawa Kunisada,Utagawa Kuniyoshi,0.362002
+5,47,15,Rene Magritte,Salvador Dali,0.178881
+5,255,77,Heorhiy Narbut,Ivan Bilibin,0.312159
+5,35,20,James Tissot,John Singer Sargent,0.104948
+5,240,82,Edouard Vuillard,Pierre Bonnard,0.208254
+5,8,58,Pyotr Konchalovsky,Konstantin Yuon,0.143023
+5,4,30,Camille Pissarro,Alfred Sisley,0.288301
+5,99,116,George Romney,Thomas Lawrence,0.173542
+5,98,5,Valentin Serov,Ilya Repin,0.127374
+5,643,13,Ion Theodorescu-Sion,Paul Cezanne,0.099333
+5,526,116,Gilbert Stuart,Thomas Lawrence,0.222665

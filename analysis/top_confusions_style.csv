@@ -1,0 +1,31 @@
+count,true_id,pred_id,true_name,pred_name,mean_confidence
+120,2,1,Realism,Impressionism,0.797200
+117,1,2,Impressionism,Realism,0.838711
+106,3,2,Romanticism,Realism,0.786153
+93,2,3,Realism,Romanticism,0.792776
+78,1,5,Impressionism,Post-Impressionism,0.770538
+70,5,1,Post-Impressionism,Impressionism,0.844179
+60,5,4,Post-Impressionism,Expressionism,0.796083
+55,4,5,Expressionism,Post-Impressionism,0.735535
+36,10,3,Rococo,Romanticism,0.711312
+33,6,9,Art Nouveau (Modern),Symbolism,0.700818
+33,2,5,Realism,Post-Impressionism,0.658689
+32,15,4,Cubism,Expressionism,0.773368
+31,8,4,Surrealism,Expressionism,0.659752
+29,7,3,Baroque,Romanticism,0.691570
+28,10,7,Rococo,Baroque,0.712887
+27,5,2,Post-Impressionism,Realism,0.753864
+27,7,10,Baroque,Rococo,0.771607
+27,14,3,Neoclassicism,Romanticism,0.751363
+26,12,4,Naïve Art (Primitivism),Expressionism,0.688056
+25,9,3,Symbolism,Romanticism,0.724325
+24,6,2,Art Nouveau (Modern),Realism,0.774906
+24,1,4,Impressionism,Expressionism,0.717538
+24,9,1,Symbolism,Impressionism,0.646373
+24,27,4,Fauvism,Expressionism,0.772240
+23,4,8,Expressionism,Surrealism,0.735252
+23,3,10,Romanticism,Rococo,0.825778
+22,3,9,Romanticism,Symbolism,0.656680
+21,9,4,Symbolism,Expressionism,0.740537
+21,14,10,Neoclassicism,Rococo,0.748653
+21,6,4,Art Nouveau (Modern),Expressionism,0.771253

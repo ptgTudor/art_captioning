@@ -1,0 +1,31 @@
+count,true_id,pred_id,true_name,pred_name,mean_confidence
+125,3,1,genre painting,portrait,0.793154
+106,1,3,portrait,genre painting,0.812855
+68,2,6,landscape,cityscape,0.819569
+67,18,1,self-portrait,portrait,0.852895
+56,12,4,figurative,abstract,0.799117
+54,6,2,cityscape,landscape,0.864107
+51,4,12,abstract,figurative,0.706190
+44,3,2,genre painting,landscape,0.778820
+42,15,2,marina,landscape,0.783788
+41,2,3,landscape,genre painting,0.830623
+34,7,1,sketch and study,portrait,0.829669
+33,5,3,religious painting,genre painting,0.701150
+30,1,18,portrait,self-portrait,0.719433
+28,2,15,landscape,marina,0.747643
+26,5,14,religious painting,mythological painting,0.658936
+25,3,10,genre painting,symbolic painting,0.588775
+25,3,5,genre painting,religious painting,0.731417
+25,3,6,genre painting,cityscape,0.801268
+24,14,3,mythological painting,genre painting,0.718497
+24,19,4,None,abstract,0.861345
+23,8,3,illustration,genre painting,0.738209
+23,20,14,allegorical painting,mythological painting,0.736222
+22,3,21,genre painting,history painting,0.627736
+22,14,5,mythological painting,religious painting,0.688079
+21,6,3,cityscape,genre painting,0.804639
+20,11,3,nude painting (nu),genre painting,0.783064
+20,10,3,symbolic painting,genre painting,0.739867
+20,7,3,sketch and study,genre painting,0.834680
+19,5,1,religious painting,portrait,0.775579
+18,3,12,genre painting,figurative,0.704022

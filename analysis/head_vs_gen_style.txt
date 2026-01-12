@@ -1,0 +1,14 @@
+Task: style
+Split: validation
+N records: 10325
+
+Gen valid rate: 0.8229
+Head acc on records: 0.6627
+Gen acc on records:  0.5349
+Head/Gen agreement:  0.7185
+
+2x2 (counts):
+  head_correct & gen_correct: 5241
+  head_correct & gen_wrong:   1601
+  head_wrong   & gen_correct: 282
+  head_wrong   & gen_wrong:   3201
